@@ -29,7 +29,7 @@ var article = document.querySelector('#home-page');
 var section = document.querySelector('section');
 var lead = document.querySelector('.lead');
 
-// Can get all matched results. This returns a list
+// Can get all matched results. This returns a list of all sections
 var sections = document.querySelectorAll('section');
 
 // Let's look at an individual node and see it's children and it's parent
