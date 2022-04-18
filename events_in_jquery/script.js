@@ -18,3 +18,15 @@ $(document).ready(function() {
         $(".stream3").addClass('highlight_stream');
    });
 }); 
+
+/**
+ * other events
+ * $('#stream1_btn').click(function(){
+ * }). works the same as above click example
+ * 
+ * $('#stream1_btn').mouseenter(function(){
+ * }) // mouse hober
+ * 
+ * $('#stream1_btn').mouseleave(function(){
+ * }) // mouse out
+ */
